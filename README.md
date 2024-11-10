@@ -1,4 +1,5 @@
 # Encoder-Decoder-Attention-Models_gh5
-Course work:
+
+Class project
 
 Implemented encoder-decoder architecture with attention.
